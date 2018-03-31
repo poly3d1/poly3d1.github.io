@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /guests
+Disallow: /backside
+Disallow: /articles/
+Disallow: /products/
+Disallow: /foto/
+
+sitemap: http://xn--3-htbtle8e.xn--p1ai/sitemap.xml
+host:xn--3-htbtle8e.xn--p1ai
+
